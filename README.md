@@ -1,5 +1,5 @@
 # Qdrant_und_PostgreSQL_im_Vergleich
-Skript zum [Review](https://www.heise.de/select/ix/2024/5/2410105055794740690) von Christian Winkler, erschienen in [iX 05/2024](https://www.heise.de/select/ix/2024/5).
+Skript zum [Review](https://www.heise.de/select/ix/2024/5/2410105055794740690) von Christian Winkler, erschienen in [iX 05/2024](https://www.heise.de/select/ix/2024/5) und auf [heise online](https://heise.de/-9681644).
 
 # iX-tract
 - Da große Sprachmodelle Wörter und Text in Form von Vektor-Embeddings verarbeiten, werden Vektoren als Datenstrukturen derzeit immer wichtiger.
